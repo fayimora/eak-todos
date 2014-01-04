@@ -6,7 +6,7 @@ ember-app-kit-todos is the Emberjs Todos using Ember App Kit.
 
 ```sh
 npm install
-grunt test:server
+grunt server
 # navigate to: http://localhost:8000
 ```
 ## Future Goals
